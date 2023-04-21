@@ -22,7 +22,7 @@ header .header-icons-container{
     width: 100%;
     height: 50px;
     display: grid;
-    background-color: #47cfac;
+    background-color: #050706;
 }
 header .header-icons-container .icons{
     width: 300px;
@@ -56,6 +56,28 @@ nav .profile-link{
     margin-right: 50px;
 }
 nav .profile-link a{
-    color: black;
+    color: whitesmoke;
     border-bottom: 1px solid;
+}
+.hero{
+    background-image: url(/assets/img/header-fondo.jpg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+.home-main-button{
+    color: azure;
+}
+.home-main section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.home-main-text{
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    color: rgb(8, 29, 10);
 }
