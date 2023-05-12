@@ -136,3 +136,11 @@ nav .profile-link a{
     padding-bottom: 20px;
     text-align: center;
 }
+/* boton */
+.blogs-button{
+    border: 1px solid #cdd2da;
+    padding: 10px 15px;
+    font-size: 12px;
+    color: aquamarine;
+    background-color: #252927;
+}
